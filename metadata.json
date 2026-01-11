@@ -1,0 +1,6 @@
+
+{
+  "name": "Murajaa - Quran Memorization Tool",
+  "description": "An interactive web application for reviewing and memorizing the Holy Quran. It generates random tests based on selected Juz' or Surahs, asking users to provide preceding or succeeding verses with AI-powered evaluation.",
+  "requestFramePermissions": []
+}
